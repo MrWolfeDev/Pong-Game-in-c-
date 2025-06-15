@@ -15,7 +15,6 @@ A modern take on the classic Pong game implemented in C++ using the [Raylib](htt
 ## Demo
 
 ![Gameplay screenshot](screenshot.png)  
-*(Add your screenshot here for better visualization)*
 
 ---
 
