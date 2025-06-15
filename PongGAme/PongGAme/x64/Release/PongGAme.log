@@ -1,0 +1,16 @@
+﻿  main.cpp.cpp
+G:\Users\abido\source\repos\PongGAme\main.cpp.cpp(29,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\Users\abido\source\repos\PongGAme\main.cpp.cpp(29,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Users\abido\source\repos\PongGAme\main.cpp.cpp(29,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\Users\abido\source\repos\PongGAme\main.cpp.cpp(60,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Users\abido\source\repos\PongGAme\main.cpp.cpp(61,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+G:\Users\abido\source\repos\PongGAme\main.cpp.cpp(181,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\Users\abido\source\repos\PongGAme\main.cpp.cpp(187,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+G:\Users\abido\source\repos\PongGAme\main.cpp.cpp(195,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PongGAme.vcxproj -> G:\Users\abido\source\repos\PongGAme\x64\Release\PongGAme.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
