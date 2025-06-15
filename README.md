@@ -1,8 +1,4 @@
-# Pong-Game-in-c-
-Luxury Pong Game — A visually rich Pong clone built with Raylib in C++. Features smooth gameplay, luxury-themed colors, AI opponent, sound effects, and background music for an engaging classic arcade experience.
-
-
-Luxury Pong Game
+# Luxury Pong Game
 
 A modern take on the classic Pong game implemented in C++ using the [Raylib](https://www.raylib.com/) library. This project features:
 
@@ -19,6 +15,7 @@ A modern take on the classic Pong game implemented in C++ using the [Raylib](htt
 ## Demo
 
 ![Gameplay screenshot](screenshot.png)  
+*(Add your screenshot here for better visualization)*
 
 ---
 
@@ -46,3 +43,52 @@ A modern take on the classic Pong game implemented in C++ using the [Raylib](htt
    ```bash
    git clone https://github.com/yourusername/luxury-pong-game.git
    cd luxury-pong-game
+Compile the project (example using g++):
+
+bash
+Copy
+Edit
+g++ -o LuxuryPong main.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -std=c++11
+Run the executable:
+
+bash
+Copy
+Edit
+./LuxuryPong
+Controls
+UP Arrow: Move player paddle up
+
+DOWN Arrow: Move player paddle down
+
+ESC: Quit the game
+
+File Structure
+bash
+Copy
+Edit
+luxury-pong-game/
+│
+├── assets/
+│   ├── PongBGM.mp3       # Background music
+│   ├── paddle.mp3        # Paddle hit sound
+│   └── boader.mp3        # Border collision sound
+│
+├── main.cpp              # Game source code
+└── README.md
+Notes
+Make sure your audio device supports playback and that Raylib is correctly initialized.
+
+The AI paddle speed and difficulty can be adjusted by modifying the AI.speed variable in the code.
+
+The ball resets to the center with random direction after scoring.
+
+License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+Acknowledgments
+Raylib for the simple and powerful graphics/audio/game library.
+
+Inspiration from the classic Pong game.
+
+Feel free to contribute or report issues. Enjoy playing the luxury-themed Pong!
+
