@@ -14,7 +14,14 @@ A modern take on the classic Pong game implemented in C++ using the [Raylib](htt
 
 ## Demo
 
-![Gameplay screenshot](demo)  
+![Gameplay screenshot](demo) 
+
+
+
+
+
+
+
 
 ---
 
@@ -40,7 +47,7 @@ A modern take on the classic Pong game implemented in C++ using the [Raylib](htt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/luxury-pong-game.git
+   git clone https://github.com/MrWolfeDev/Pong-Game-in-c-.git
    cd luxury-pong-game
 Compile the project (example using g++):
 
